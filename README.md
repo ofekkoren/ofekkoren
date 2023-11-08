@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 I'm Ofek, a passionate Computer Science graduate from Bar Ilan University.
-
+👋 I'm Ofek, a passionate Computer Science graduate from Bar Ilan University. <br />
 Honors: Magna Cum Laude <br />
 GPA: 93.74
 
