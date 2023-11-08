@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👋 I'm Ofek, a passionate Computer Science graduate from Bar Ilan University.
 
-Honors: Magna Cum Laude \\
+Honors: Magna Cum Laude <br />
 GPA: 93.74
 
 🔬  In collaboration with the Deputy Head of the department, I researched tools for analysis and accessibility of Smart Agent Strategies and Intelligent Systems. The tools are based on methods taken from operating systems, machine learning, and psychological fields.
