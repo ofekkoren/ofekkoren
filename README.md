@@ -31,5 +31,5 @@ o	AI | Deep Learning | Machine Learning
 
 🤝 I Completed the ProMUNers Model United Nations program of leadership.
 
-📫 How to reach me: ofekkoren1@gmail.com
+📫 How to reach me: ofekkoren1@gmail.com <br />
 Eagerly seeking my next challenge.
