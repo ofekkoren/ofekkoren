@@ -22,7 +22,7 @@ GPA: 93.74
 
 🔬  In collaboration with the Deputy Head of the department, I researched tools for analysis and accessibility of Smart Agent Strategies and Intelligent Systems. The tools are based on methods taken from operating systems, machine learning, and psychological fields.
 
-💻 Skills & Technologies:
+💻 Skills & Technologies: <br />
 o	Python | Java | C++ | C | C# | Bash | Assembly <br />
 o	Web: HTML | CSS | Java Script | React | SQL | XML | ASP.NET <br />
 o	AI | Deep Learning | Machine Learning <br />
