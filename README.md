@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 👋 I'm Ofek, a passionate Computer Science graduate from Bar Ilan University.
+
 Honors: Magna Cum Laude
 GPA: 93.74
 
